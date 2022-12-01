@@ -1,0 +1,16 @@
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.GlobalUsings.g.cs
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.csproj.AssemblyReference.cache
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.AssemblyInfoInputs.cache
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.AssemblyInfo.cs
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.csproj.CoreCompileInputs.cache
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\bin\Debug\net6.0\Dvumernie_Massivi1.exe
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\bin\Debug\net6.0\Dvumernie_Massivi1.deps.json
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\bin\Debug\net6.0\Dvumernie_Massivi1.runtimeconfig.json
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\bin\Debug\net6.0\Dvumernie_Massivi1.dll
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\bin\Debug\net6.0\ref\Dvumernie_Massivi1.dll
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\bin\Debug\net6.0\Dvumernie_Massivi1.pdb
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.dll
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\ref\Dvumernie_Massivi1.dll
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.pdb
+C:\Users\Людмила\Desktop\Seminar7\Dvumernie_Massivi1\obj\Debug\net6.0\Dvumernie_Massivi1.genruntimeconfig.cache
